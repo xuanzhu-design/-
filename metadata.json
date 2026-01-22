@@ -1,0 +1,5 @@
+{
+  "name": "VOC 客户声音管理系统",
+  "description": "一个极简现代的客户声音 (Voice of Customer) 管理系统后台，包含对话生成流和页面预览区域。",
+  "requestFramePermissions": []
+}
